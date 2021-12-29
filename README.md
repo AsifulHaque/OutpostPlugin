@@ -1,4 +1,4 @@
-# OutpostPlugin
+# OutpostPlugin Beta
  
 Unreal Engine 4.26 Plugin
 v1.00
@@ -12,3 +12,5 @@ This plugin provides only core code framework for :
  - AI defenders
  - fast travel
 However, it does not include any graphics assets(models/animation/soundfx) except placeholders with minimum memory-footprint.
+
+*N.B: Currently in development. Not stable yet!*
